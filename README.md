@@ -37,9 +37,9 @@ I am a SWE / Data Scientist 🖥️
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=0zean" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=0zean" alt="GitHub Streak" height="300" width="350"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0zean&layout=compact" alt="" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0zean&layout=compact" alt="" height="195" width="250"/>
 </div>
 
 
