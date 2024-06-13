@@ -34,16 +34,13 @@ I am a SWE / Data Scientist 🖥️
 ---
 
 ### :fire: My Stats :
-
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=0zean" alt="GitHub Streak" height="300" width="350"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=0zean" alt="GitHub Streak" height="350" width="400"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0zean&layout=compact" alt="" height="300" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0zean&layout=compact" alt="" height="350" width="300"/>
 </div>
 
-
-          
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -68,7 +65,7 @@ I am a SWE / Data Scientist 🖥️
 
 ---
 
-### ✨ Favorite Repos
+### ✨ Favorite Repos :
 
 <div align="center">
   <a href="https://github.com/0zean/MARS-Time-Series">
