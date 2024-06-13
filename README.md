@@ -29,7 +29,7 @@ I am a SWE / Data Scientist 🖥️
 
 - :zap: Also interested in quantitative finance.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-npicini-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/npicini)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-npicini-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/npicini)
 
 ---
 
