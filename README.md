@@ -4,9 +4,11 @@
 
 
 <div align="center" id="badges">
+  <!--
   <a href="https://www.linkedin.com/in/npicini">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  -->
   <img src="https://komarev.com/ghpvc/?username=0zean&style=for-the-badge&color=green" alt=""/>
 <img src="https://img.shields.io/github/followers/0zean?style=for-the-badge" alt=""/>
 </div>
@@ -29,7 +31,9 @@ I am a SWE / Data Scientist 🖥️
 
 - :zap: Also interested in quantitative finance.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-npicini-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/npicini)
+- :mailbox: How to reach me:
+
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-npicini-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/npicini) -->
 
 ---
 
