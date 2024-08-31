@@ -29,7 +29,7 @@ I am a SWE / Data Scientist 🖥️
 
 - :seedling: Exploring the intersection of machine learning and DSP.
 
-- :zap: Researching in quantitative finance.
+- :zap: Interested in quantitative finance.
 
 - :mailbox: How to reach me: [email](mailto:pd1138@protonmail.com)
 
