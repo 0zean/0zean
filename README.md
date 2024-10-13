@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-I am a SWE / Data Scientist 🖥️
+I am a Machine Learning Engineer / Data Scientist 🖥️
 
 - :telescope: Working as a Software Engineer in generative AI.
 
