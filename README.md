@@ -23,9 +23,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Machine Learning Engineer / Data Scientist 🖥️
+I am a Machine Learning Engineer 🖥️
 
-- :telescope: Working as a Software Engineer in generative AI.
+- :telescope: Working as a MLE in recommender systems & generative AI.
 
 - :seedling: Exploring the intersection of machine learning and DSP.
 
