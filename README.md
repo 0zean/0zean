@@ -26,7 +26,7 @@
 
 I am a Machine Learning Engineer 🖥️
 
-- :telescope: Working as a MLE in recommender systems & generative AI.
+- :telescope: Working as a MLE in search & recommendation.
 
 - :seedling: Exploring the intersection of machine learning and DSP.
 
