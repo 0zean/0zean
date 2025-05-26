@@ -37,9 +37,9 @@
 ### :fire: Git Stats :
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=0zean" alt="GitHub Streak" height="350" width="400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=0zean" alt="GitHub Streak"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0zean&layout=compact&hide=jupyter%20notebook,typescript&langs_count=7" alt="" height="350" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0zean&layout=compact&hide=jupyter%20notebook,typescript&langs_count=7" alt=""/>
 </div>
 
 ---
