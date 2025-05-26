@@ -22,15 +22,11 @@
 
 ---
 
-### :man_technologist: About Me :
+### 💾 About :
 
-I am a Machine Learning Engineer 🖥️
+- :telescope: MLE in search engineering
 
-- :telescope: MLE working in search & recommendation.
-
-- :seedling: Exploring the intersection of machine learning and DSP.
-
-- :zap: Interested in quantitative finance.
+- :zap: Interested in quantitative finance and DSP
 
 - :mailbox: How to reach me: [email](mailto:pd1138@protonmail.com)
 
@@ -38,7 +34,7 @@ I am a Machine Learning Engineer 🖥️
 
 ---
 
-### :fire: My Stats :
+### :fire: Git Stats :
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=0zean" alt="GitHub Streak" height="350" width="400"/>
@@ -52,14 +48,15 @@ I am a Machine Learning Engineer 🖥️
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" title="C" alt="C"/>&nbsp;
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" title="Rust" alt="Rust"/>&nbsp;
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" title="Docker" alt="Docker"/>&nbsp;
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" title="R" alt="R"/>&nbsp;
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" title="C#" alt="C#"/>&nbsp;
   <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" title="julia" alt="julia"/>&nbsp;
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" title="Azure" alt="Azure"/>&nbsp;
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" title="Docker" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/googlecloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" title="GCP" alt="GCP"/>&nbsp;
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="Postgresql" alt="Postgresql"/>&nbsp;
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" title="Grafana"  alt="Grafana"/>&nbsp;
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS"/>&nbsp;
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" **alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="sk" alt="sklearn"/>&nbsp;
@@ -67,7 +64,8 @@ I am a Machine Learning Engineer 🖥️
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" title="pytorch" alt="pytorch"/>&nbsp;
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="numpy" alt="numpy"/>&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" title="fast" alt="fast"/>&nbsp;
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" title="jira" alt="jira"/>&nbsp;
+  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" title="kubernetes" alt="Kubernetes"/>&nbsp;
+  <img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" title="prometheus" alt="Prometheus"/>&nbsp;
 </div>
 
 ---
