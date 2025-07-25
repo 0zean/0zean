@@ -35,11 +35,12 @@
 ---
 
 ### :fire: Git Stats :
+
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=0zean" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=0zean&theme=rose-pine&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0zean&layout=compact&hide=jupyter%20notebook,typescript&langs_count=7" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0zean&layout=compact&hide=jupyter%20notebook,typescript&langs_count=7&theme=rose_pine&hide_border=true" alt=""/>
 </div>
 
 ---
