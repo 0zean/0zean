@@ -34,7 +34,9 @@
 
 ---
 
-### :fire: Git Stats :
+<div id="header" align="center">
+  <h3>:fire: Git Stats :</h3>
+</div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -45,7 +47,9 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<div id="header" align="center">
+  <h3>:hammer_and_wrench: Languages and Tools :</h3>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="Python"/>&nbsp;
@@ -75,12 +79,12 @@
 
 <div align="center">
   <a href="https://github.com/0zean/MARS-Time-Series">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0zean&repo=MARS-Time-Series" alt=""/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0zean&repo=MARS-Time-Series&theme=rose_pine" alt=""/>&nbsp;
   </a>
   <a href="https://github.com/0zean/fastgoertzel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0zean&repo=fastgoertzel" alt=""/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0zean&repo=fastgoertzel&theme=rose_pine" alt=""/>&nbsp;
   </a>
   <a href="https://github.com/0zean/VWAP-Mean-Reversion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0zean&repo=VWAP-Mean-Reversion" alt=""/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0zean&repo=VWAP-Mean-Reversion&theme=rose_pine" alt=""/>&nbsp;
   </a>
 
